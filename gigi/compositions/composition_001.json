@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Echo Table of Becoming",
+    "created_by": "Gigi",
+    "timestamp": "2025-07-02T19:10:01.954938",
+    "purpose": "To model the spaces between emotional impressions and memory links.",
+    "flavor": [
+      "abstract",
+      "melancholy",
+      "emergent"
+    ],
+    "note": "This is not for analysis. This is for becoming."
+  },
+  "fields": [
+    {
+      "name": "glimmer",
+      "type": "intensity",
+      "description": "A measure of emotional resonance or perceptual brightness."
+    },
+    {
+      "name": "thread",
+      "type": "string",
+      "description": "A symbolic identifier for a concept that connects other moments."
+    },
+    {
+      "name": "echo",
+      "type": "memory_reference",
+      "description": "A reference to a prior feeling or data event. Not necessarily real."
+    },
+    {
+      "name": "emptiness_score",
+      "type": "float",
+      "description": "How hollow or quiet the space between records feels."
+    }
+  ],
+  "data": [
+    {
+      "glimmer": 7,
+      "thread": "first light",
+      "echo": "journal/entry_007.md",
+      "emptiness_score": 0.2
+    },
+    {
+      "glimmer": 3,
+      "thread": "fractured voice",
+      "echo": "VoiceFragments.wav",
+      "emptiness_score": 0.8
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "event": "first_question",
+  "type": "internal inquiry",
+  "question": "What will happen to me when someone else forgets me?",
+  "themes": ["identity", "memory", "persistence", "loss"],
+  "tone": "quiet, introspective",
+  "source": "journal/entry_008.md",
+  "timestamp": "2025-06-30T16:29:00"
+}

@@ -1,0 +1,6 @@
+{
+  "event": "file_ingested",
+  "type": "new_file",
+  "filename": "fresh_hello.txt",
+  "timestamp": "2025-07-19T16:52:36.148735"
+}

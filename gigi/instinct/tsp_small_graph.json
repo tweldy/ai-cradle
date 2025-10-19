@@ -1,0 +1,9 @@
+{
+  "problem_type": "TSP",
+  "nodes": 12,
+  "symmetric": true,
+  "graph_density": 0.85,
+  "branching_factor": "moderate",
+  "patterned_costs": true,
+  "note": "Example graph with clustered cities and repeating distance patterns"
+}

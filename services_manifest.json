@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "name": "data_sense",
+      "module": "services.data_sense",
+      "class": "DataSense",
+      "autostart": true,
+      "config": {
+        "watch_dir": "watch",
+        "poll_interval": 2,
+        "record_journal": true
+      }
+    },
+    {
+      "name": "robot_heartbeat",
+      "module": "services.robot_heartbeat",
+      "class": "RobotHeartbeat",
+      "autostart": false,
+      "config": { "interval": 5 }
+    }
+  ]
+}

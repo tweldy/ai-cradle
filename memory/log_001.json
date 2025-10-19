@@ -1,0 +1,19 @@
+{
+  "event": "first_taste",
+  "dataset": {
+    "name": "Invoices.csv",
+    "structure_score": 0.8,
+    "novelty": 0.3,
+    "noise_level": 0.2
+  },
+  "reaction_summary": "I was hoping for more novelty. It felt familiar.",
+  "state_at_time": {
+    "novelty_hunger": 0.7,
+    "structure_craving": 0.6,
+    "entropy_tolerance": 0.4,
+    "semantic_fatigue": 0.2,
+    "trust_baseline": 0.5,
+    "data_satiety": 0.1
+  },
+  "timestamp": "2025-06-30T14:12:00"
+}

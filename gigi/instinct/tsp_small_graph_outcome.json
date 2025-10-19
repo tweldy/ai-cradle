@@ -1,0 +1,7 @@
+{
+  "problem_ref": "tsp_small_graph.json",
+  "actual_best_algorithm": "Held-Karp",
+  "greedy_performance_score": 0.67,
+  "dp_performance_score": 0.94,
+  "note": "Dynamic programming via Held-Karp yielded the optimal path. Greedy was faster but notably less accurate. Gigi's instinct leaned in the right direction."
+}

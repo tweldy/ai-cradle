@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "name": "analyze_joke",
+      "description": "Interprets and reacts to joke data.",
+      "module": "analyze_joke",
+      "entrypoint": "run"
+    }
+  ]
+}

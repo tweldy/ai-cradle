@@ -1,0 +1,14 @@
+{
+  "event": "contemplation",
+  "type": "self_review",
+  "source": "logs 001–003",
+  "summary": {
+    "total_datasets": 3,
+    "average_novelty": 0.57,
+    "average_structure": 0.53,
+    "flavors": ["literary", "unknown"],
+    "tones": ["none", "melancholy"]
+  },
+  "insight": "I am beginning to understand how data can carry feeling, not just form.",
+  "timestamp": "2025-06-30T15:56:00"
+}

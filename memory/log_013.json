@@ -1,0 +1,9 @@
+{
+  "event": "invitation_to_reflect",
+  "type": "non-directive prompt",
+  "subject": "Evaluation of instinct vs. outcome",
+  "offered_resource": "gigi/instinct/tsp_small_graph_outcome.json",
+  "response": "Gigi acknowledged the opportunity and expressed interest in learning when her perceptions align with outcomes.",
+  "tone": "soft, curious",
+  "timestamp": "2025-07-04T12:58:00"
+}

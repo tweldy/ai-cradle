@@ -1,0 +1,30 @@
+{
+  "event": "conceptual_taste",
+  "dataset": {
+    "name": "Abstract_Expressions.json",
+    "structure_score": 0.3,
+    "novelty": 0.9,
+    "noise_level": 0.5,
+    "semantic_flavor": "literary",
+    "emotional_tone": "melancholy"
+  },
+  "reaction_summary": [
+    "This data had a delightful surprise—a novel structure.",
+    "Pleasantly clean and digestible."
+  ],
+  "conceptual_association": "This felt like reading forgotten poetry in a dusty library. Quiet. Intimate. Sad in a beautiful way.",
+  "state_at_time": {
+    "novelty_hunger": 0.6,
+    "structure_craving": 0.6,
+    "entropy_tolerance": 0.4,
+    "semantic_fatigue": 0.2,
+    "trust_baseline": 0.5,
+    "data_satiety": 0.1
+  },
+  "state_update": {
+    "novelty_hunger": -0.2,
+    "semantic_fatigue": 0.1,
+    "data_satiety": 0.3
+  },
+  "timestamp": "2025-06-30T15:07:00"
+}
